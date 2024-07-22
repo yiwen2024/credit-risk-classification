@@ -5,9 +5,9 @@ In this challenge, a supervised machine learning model was used to categorize th
 
 Classification is a method of machine learning to predict discrete valued variables. A classification report holds the test results so we can assess and evaluate the number of predicted occurrences for each class.
 
-TP = True Positive
-TN = True Negative
-FP = False Positive
+TP = True Positive, 
+TN = True Negative, 
+FP = False Positive, 
 FN = False Negative
 
 Accuracy, precision, and recall are especially important for classification models that involve a binary decision problem.
@@ -26,7 +26,7 @@ recall = TP / (TP + FN)
 
 Logistic regression is a statistical method for predicting binary outcomes from data which is applied to this analysis to perform the classification. 
 
-Formula.png
+![image](https://github.com/user-attachments/assets/a73ac3ae-59e2-44f6-b849-f0fee4e7c8b9)
 
 The steps in Logistic Regression Modeling includes Preprocess, Train, Validate, and Predict.
 
@@ -65,7 +65,7 @@ Evaluate the model’s performance:
 
 # Report
 
-Report.png
+![image](https://github.com/user-attachments/assets/a942c134-fc43-409f-b81e-59fe16f3c54f)
 
 The purpose: 
 
